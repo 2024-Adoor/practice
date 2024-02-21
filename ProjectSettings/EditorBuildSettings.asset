@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Tutorials/PassthroughColorLUTTutorial.unity
+    guid: 7bdfdb3d4d9b3874ab3e7cc0b0c829a7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8bc60fb1401555848b6582c12caa10fa, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a6a3ce9fb42e4344193e26c62e94c864, type: 2}
